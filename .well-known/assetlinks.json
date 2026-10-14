@@ -1,1 +1,10 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.psicologiatech.giroagiro",
+    "sha256_cert_fingerprints": [
+      "B3:AC:80:70:BC:E1:B9:14:3B:39:FF:35:99:E8:8B:1F:91:83:5C:63:56:9B:A5:14:18:9D:16:41:20:75:25:E6"
+    ]
+  }
+}]
